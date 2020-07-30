@@ -1,0 +1,4 @@
+<!--pages/demo04/demo04.wxml-->
+<!-- 1.需要给input标签绑定input事件
+         -->
+<input type="text" bindinput="handleInput" />
